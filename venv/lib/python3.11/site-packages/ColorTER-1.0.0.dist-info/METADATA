@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ColorTER
+Version: 1.0.0
+Summary: A simple library to beautify the terminal (:
+Home-page: https://github.com/aminrngbr1122
+Author: AminRngbr
+Author-email: rngbramin@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Requires-Python: >=3.4
+Description-Content-Type: text/plain
+License-File: LICENSE
+
+Make your terminal outputs colorful and beautiful with this library (:
